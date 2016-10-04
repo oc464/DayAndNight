@@ -56,16 +56,3 @@ function keyTyped(){
 	speed = 2
 	}
 }
-  
-//	if (mouseIsPressed) {
-//		b = color(100,100,255);
-//		c = color(0,150,0);
-//		d = color(255,255,0);
-//		e = color(150,0,0);
-//	}
-//	else {
-//		b = color(0,0,75);
-//  	c = color(50,0,0);
-//  	d = color(200);
-//  	e = color(0,50,0);
-//	}
